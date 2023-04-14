@@ -81,7 +81,7 @@ a:focus {
   align-items: center;
   padding: 1rem;
   gap: 1rem;
-  background-color: var(--color-container);
+  background-color: var(--color-main-background);
   border-bottom: solid 2px #ccff00;
 }
 
